@@ -23,3 +23,13 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
 2. Instale as dependências (caso utilize o Nodemon):
    ```bash
    npm install
+
+---
+## 🤝 Conecte-se Comigo
+
+<p align="center">
+  <img src="https://github.com/HigorCamposGit.png" width="100px" style="border-radius: 50%;" alt="Foto de Higor de Campos" /><br />
+  <b>Projeto atualizado por:</b> <a href="https://github.com/HigorCamposGit">Higor de Campos</a>
+</p>
+
+---
